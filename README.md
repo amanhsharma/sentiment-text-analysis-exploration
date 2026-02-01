@@ -12,4 +12,4 @@ Python
 Using Python libraries for analysis of the texts
 
 ## Future Improvements
-LModifying it for bigger and global cause 
+Modifying it for bigger and global cause 
